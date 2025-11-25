@@ -1,0 +1,151 @@
+candidate_id,name,age,education,experience_years,previous_role,skills,certifications,github_projects,resume_score,interview_score,communication_score,domain_knowledge_score,behaviour_score,trust_score
+1,Candidate_1,27,M.Sc,3,Data Analyst,"NLP, Python",Microsoft DP-900,12,85,61,43,64,96,68.0
+2,Candidate_2,35,B.Sc,2,Data Scientist,"Python, SQL, ML",DeepLearning.AI,10,76,75,79,72,91,77.0
+3,Candidate_3,31,Diploma,0,AI Intern,"Python, SQL, ML",Google Data Analytics,2,60,45,64,61,40,55.0
+4,Candidate_4,28,B.Tech,0,Data Scientist,"Python, Deep Learning",None,0,65,97,22,82,37,65.0
+5,Candidate_5,27,M.Sc,4,Data Scientist,"NLP, Python",Google Data Analytics,5,85,66,56,46,83,66.0
+6,Candidate_6,39,B.Tech,5,ML Engineer,"Java, Git, SQL",None,17,75,83,62,57,57,69.0
+7,Candidate_7,31,Diploma,2,AI Intern,"Python, SQL, ML",DeepLearning.AI,9,93,43,59,79,51,67.0
+8,Candidate_8,31,B.Tech,8,Data Scientist,"Java, Git, SQL",DeepLearning.AI,4,62,84,74,26,30,60.0
+9,Candidate_9,24,M.Tech,4,Data Analyst,"Python, SQL, ML",Microsoft DP-900,9,96,77,58,24,64,66.0
+10,Candidate_10,28,M.Sc,7,Data Analyst,"Python, SQL, ML",Google Data Analytics,11,40,36,34,64,52,44.0
+11,Candidate_11,23,M.Sc,0,Software Engineer,"Python, SQL, ML",Microsoft DP-900,1,93,36,23,77,60,58.0
+12,Candidate_12,22,Diploma,4,AI Intern,"NLP, Python",Google Data Analytics,12,94,62,44,50,27,60.0
+13,Candidate_13,32,M.Tech,2,AI Intern,"Excel, PowerBI, SQL",Microsoft DP-900,7,90,52,32,42,30,53.0
+14,Candidate_14,26,B.Sc,0,Software Engineer,"Java, Git, SQL",AWS ML,1,79,48,52,61,70,61.0
+15,Candidate_15,22,B.Tech,3,Data Scientist,"NLP, Python",AWS ML,19,54,48,35,29,60,44.0
+16,Candidate_16,21,MBA,4,AI Intern,"NLP, Python",AWS ML,0,60,65,61,51,36,57.0
+17,Candidate_17,32,B.Tech,6,Data Analyst,"NLP, Python",AWS ML,4,86,58,85,72,95,77.0
+18,Candidate_18,32,B.Tech,0,Data Analyst,"NLP, Python",None,8,48,89,74,49,65,65.0
+19,Candidate_19,37,B.Sc,2,ML Engineer,"NLP, Python",AWS ML,16,92,31,61,58,51,60.0
+20,Candidate_20,30,B.Tech,1,AI Intern,"Python, Deep Learning",DeepLearning.AI,8,48,30,53,50,98,50.0
+21,Candidate_21,36,M.Tech,8,Data Scientist,"Java, Git, SQL",DeepLearning.AI,10,49,76,49,21,99,55.0
+22,Candidate_22,35,M.Tech,9,Software Engineer,"NLP, Python",None,14,91,98,32,97,73,80.0
+23,Candidate_23,35,M.Sc,5,Software Engineer,"Java, Git, SQL",AWS ML,5,96,49,32,96,39,66.0
+24,Candidate_24,39,Diploma,9,Data Scientist,"Python, Deep Learning",AWS ML,2,92,40,37,31,52,52.0
+25,Candidate_25,32,MBA,2,ML Engineer,"Python, Deep Learning",AWS ML,16,65,31,51,58,93,55.0
+26,Candidate_26,23,B.Tech,7,Software Engineer,"Java, Git, SQL",Microsoft DP-900,4,80,96,58,85,59,78.0
+27,Candidate_27,25,B.Tech,7,AI Intern,"Python, SQL, ML",Google Data Analytics,11,74,41,65,32,51,53.0
+28,Candidate_28,39,B.Sc,1,ML Engineer,"Excel, PowerBI, SQL",Microsoft DP-900,17,91,49,48,65,21,60.0
+29,Candidate_29,27,Diploma,5,AI Intern,"Python, SQL, ML",Google Data Analytics,13,64,34,81,46,52,55.0
+30,Candidate_30,29,M.Tech,6,Data Analyst,"Python, SQL, ML",AWS ML,10,65,66,81,36,96,66.0
+31,Candidate_31,27,MBA,1,ML Engineer,"Python, SQL, ML",AWS ML,8,50,67,76,79,49,65.0
+32,Candidate_32,38,M.Sc,9,Software Engineer,"NLP, Python",Microsoft DP-900,1,77,38,35,83,52,58.0
+33,Candidate_33,24,M.Tech,1,ML Engineer,"Python, Deep Learning",Microsoft DP-900,11,41,82,75,54,96,66.0
+34,Candidate_34,34,Diploma,9,ML Engineer,"Python, SQL, ML",Google Data Analytics,2,46,73,29,89,45,58.0
+35,Candidate_35,38,M.Sc,0,ML Engineer,"Python, Deep Learning",DeepLearning.AI,2,57,53,49,49,41,51.0
+36,Candidate_36,29,B.Sc,7,ML Engineer,"Java, Git, SQL",Google Data Analytics,0,66,59,44,90,85,67.0
+37,Candidate_37,22,B.Sc,0,AI Intern,"Excel, PowerBI, SQL",Microsoft DP-900,7,73,88,24,93,57,69.0
+38,Candidate_38,35,B.Tech,8,Data Analyst,"Java, Git, SQL",Microsoft DP-900,7,66,43,84,82,65,67.0
+39,Candidate_39,27,Diploma,5,Data Scientist,"Java, Git, SQL",None,10,56,38,68,47,34,50.0
+40,Candidate_40,32,MBA,6,ML Engineer,"NLP, Python",Microsoft DP-900,8,82,69,22,79,63,64.0
+41,Candidate_41,28,M.Sc,9,Software Engineer,"Excel, PowerBI, SQL",None,4,98,95,64,98,68,87.0
+42,Candidate_42,35,M.Tech,6,ML Engineer,"Java, Git, SQL",DeepLearning.AI,13,83,54,33,56,94,61.0
+43,Candidate_43,23,Diploma,9,Software Engineer,"Java, Git, SQL",Google Data Analytics,2,98,51,49,41,80,63.0
+44,Candidate_44,34,Diploma,2,AI Intern,"Excel, PowerBI, SQL",Google Data Analytics,4,90,33,87,87,86,74.0
+45,Candidate_45,37,B.Sc,1,Software Engineer,"Excel, PowerBI, SQL",None,4,93,55,37,39,25,55.0
+46,Candidate_46,24,B.Tech,8,Data Scientist,"Java, Git, SQL",Google Data Analytics,18,63,87,81,87,28,74.0
+47,Candidate_47,38,B.Tech,7,Data Analyst,"Excel, PowerBI, SQL",Microsoft DP-900,13,64,58,56,83,25,61.0
+48,Candidate_48,28,M.Sc,9,Software Engineer,"Java, Git, SQL",AWS ML,3,46,66,44,36,92,53.0
+49,Candidate_49,24,B.Sc,6,Software Engineer,"Java, Git, SQL",None,12,91,99,67,31,51,72.0
+50,Candidate_50,22,Diploma,8,Data Analyst,"NLP, Python",Google Data Analytics,9,45,47,84,41,60,54.0
+51,Candidate_51,26,MBA,3,Data Scientist,"Python, SQL, ML",None,17,92,71,72,36,95,72.0
+52,Candidate_52,30,B.Sc,3,ML Engineer,"Java, Git, SQL",None,7,63,70,98,29,27,61.0
+53,Candidate_53,24,M.Sc,0,Software Engineer,"Python, Deep Learning",AWS ML,7,72,67,92,84,91,79.0
+54,Candidate_54,38,M.Sc,7,Data Analyst,"Python, SQL, ML",Microsoft DP-900,6,88,63,34,41,69,60.0
+55,Candidate_55,32,B.Sc,2,AI Intern,"Python, SQL, ML",None,7,68,46,68,69,81,64.0
+56,Candidate_56,22,M.Sc,6,Data Analyst,"Python, SQL, ML",Google Data Analytics,13,82,66,87,33,81,69.0
+57,Candidate_57,30,B.Sc,1,AI Intern,"NLP, Python",DeepLearning.AI,18,61,54,31,83,26,54.0
+58,Candidate_58,24,M.Tech,1,Data Scientist,"Java, Git, SQL",None,5,65,56,78,66,94,68.0
+59,Candidate_59,34,B.Sc,6,ML Engineer,"NLP, Python",None,0,67,86,56,48,99,69.0
+60,Candidate_60,36,B.Sc,5,Data Analyst,"Java, Git, SQL",AWS ML,14,89,60,80,95,23,75.0
+61,Candidate_61,35,M.Sc,2,Software Engineer,"NLP, Python",Microsoft DP-900,0,60,35,62,55,25,50.0
+62,Candidate_62,28,M.Sc,8,Data Scientist,"NLP, Python",DeepLearning.AI,16,88,69,89,71,77,79.0
+63,Candidate_63,34,B.Tech,9,Data Analyst,"Python, Deep Learning",Google Data Analytics,0,46,41,58,95,41,56.0
+64,Candidate_64,28,B.Tech,5,Software Engineer,"NLP, Python",DeepLearning.AI,14,56,82,75,26,45,59.0
+65,Candidate_65,36,M.Tech,9,Data Analyst,"Excel, PowerBI, SQL",Google Data Analytics,1,59,39,82,48,22,53.0
+66,Candidate_66,33,B.Tech,9,AI Intern,"Python, Deep Learning",Microsoft DP-900,13,80,74,65,30,60,64.0
+67,Candidate_67,38,B.Sc,5,Data Analyst,"NLP, Python",Google Data Analytics,7,88,46,30,52,79,58.0
+68,Candidate_68,35,M.Sc,0,Data Analyst,"Python, SQL, ML",AWS ML,7,59,55,81,25,33,53.0
+69,Candidate_69,33,B.Tech,3,Data Analyst,"Excel, PowerBI, SQL",AWS ML,18,93,91,96,98,94,94.0
+70,Candidate_70,29,B.Tech,9,Data Scientist,"Excel, PowerBI, SQL",AWS ML,6,61,75,44,51,31,56.0
+71,Candidate_71,35,M.Tech,5,Data Analyst,"Excel, PowerBI, SQL",AWS ML,18,67,93,90,70,31,75.0
+72,Candidate_72,33,Diploma,5,Software Engineer,"Python, Deep Learning",DeepLearning.AI,5,79,31,71,94,32,64.0
+73,Candidate_73,21,M.Tech,4,AI Intern,"NLP, Python",Microsoft DP-900,5,88,83,23,77,44,67.0
+74,Candidate_74,27,B.Sc,0,AI Intern,"NLP, Python",Google Data Analytics,2,46,94,78,45,64,66.0
+75,Candidate_75,29,M.Sc,7,Data Analyst,"Python, SQL, ML",Google Data Analytics,6,40,80,91,65,38,65.0
+76,Candidate_76,21,M.Tech,4,Data Scientist,"Python, SQL, ML",AWS ML,18,71,82,39,48,74,63.0
+77,Candidate_77,32,B.Tech,4,Data Scientist,"Excel, PowerBI, SQL",AWS ML,7,52,65,82,23,64,57.0
+78,Candidate_78,28,M.Sc,6,Software Engineer,"Python, SQL, ML",None,9,69,55,73,32,27,55.0
+79,Candidate_79,31,M.Sc,3,Data Analyst,"Python, Deep Learning",Microsoft DP-900,19,62,58,93,58,72,67.0
+80,Candidate_80,39,B.Tech,5,AI Intern,"NLP, Python",DeepLearning.AI,14,90,50,76,34,74,64.0
+81,Candidate_81,37,M.Tech,3,Data Scientist,"Excel, PowerBI, SQL",Google Data Analytics,14,98,40,60,48,51,61.0
+82,Candidate_82,28,B.Tech,2,Data Analyst,"Python, SQL, ML",None,0,95,69,22,48,70,62.0
+83,Candidate_83,23,Diploma,6,Data Scientist,"Python, Deep Learning",None,19,58,40,25,94,63,55.0
+84,Candidate_84,23,M.Sc,7,Data Scientist,"Python, Deep Learning",Google Data Analytics,6,71,65,24,51,89,58.0
+85,Candidate_85,21,MBA,3,AI Intern,"Python, SQL, ML",DeepLearning.AI,3,69,88,24,21,37,52.0
+86,Candidate_86,25,MBA,1,ML Engineer,"NLP, Python",None,5,68,68,73,66,41,66.0
+87,Candidate_87,30,B.Sc,9,Software Engineer,"Python, SQL, ML",None,0,88,83,66,97,56,81.0
+88,Candidate_88,27,B.Tech,2,Software Engineer,"Excel, PowerBI, SQL",Microsoft DP-900,4,84,84,68,41,75,71.0
+89,Candidate_89,29,B.Tech,0,AI Intern,"Python, SQL, ML",DeepLearning.AI,0,68,53,28,94,78,62.0
+90,Candidate_90,27,B.Sc,7,Data Scientist,"Python, Deep Learning",None,3,69,51,39,46,22,49.0
+91,Candidate_91,29,B.Sc,2,Data Analyst,"Python, SQL, ML",DeepLearning.AI,1,55,98,80,86,47,76.0
+92,Candidate_92,28,B.Sc,9,Data Scientist,"NLP, Python",Google Data Analytics,9,79,85,54,75,93,76.0
+93,Candidate_93,32,M.Sc,6,AI Intern,"Java, Git, SQL",AWS ML,4,58,62,69,40,54,57.0
+94,Candidate_94,22,Diploma,9,Software Engineer,"Python, SQL, ML",None,9,57,65,81,66,80,68.0
+95,Candidate_95,21,B.Tech,4,Data Scientist,"NLP, Python",Microsoft DP-900,0,40,49,36,99,73,57.0
+96,Candidate_96,36,M.Sc,9,Software Engineer,"NLP, Python",Google Data Analytics,5,53,91,22,78,82,64.0
+97,Candidate_97,25,B.Sc,4,Data Analyst,"Python, Deep Learning",DeepLearning.AI,12,90,55,51,25,98,61.0
+98,Candidate_98,23,B.Tech,6,Software Engineer,"NLP, Python",Google Data Analytics,14,86,95,32,38,26,62.0
+99,Candidate_99,32,M.Sc,8,Software Engineer,"NLP, Python",None,3,89,69,92,76,95,83.0
+100,Candidate_100,28,Diploma,4,ML Engineer,"NLP, Python",DeepLearning.AI,12,41,46,87,88,68,64.0
+101,Candidate_101,23,M.Sc,0,ML Engineer,"NLP, Python",AWS ML,19,93,30,33,22,50,47.0
+102,Candidate_102,21,Diploma,9,ML Engineer,"Excel, PowerBI, SQL",Google Data Analytics,14,67,90,30,20,77,57.0
+103,Candidate_103,23,B.Sc,9,Software Engineer,"Excel, PowerBI, SQL",None,7,88,72,75,77,80,78.0
+104,Candidate_104,25,Diploma,0,AI Intern,"Python, Deep Learning",Microsoft DP-900,4,89,71,86,57,43,73.0
+105,Candidate_105,35,B.Tech,1,Software Engineer,"Python, SQL, ML",DeepLearning.AI,14,69,54,48,34,39,51.0
+106,Candidate_106,34,B.Sc,5,AI Intern,"NLP, Python",Google Data Analytics,3,77,68,28,53,56,58.0
+107,Candidate_107,23,B.Tech,8,AI Intern,"Python, SQL, ML",Google Data Analytics,11,90,64,86,80,23,74.0
+108,Candidate_108,21,MBA,7,ML Engineer,"Python, SQL, ML",AWS ML,12,43,32,44,54,39,42.0
+109,Candidate_109,25,M.Tech,4,Data Scientist,"Python, Deep Learning",AWS ML,1,40,73,95,83,79,72.0
+110,Candidate_110,34,Diploma,0,Data Analyst,"NLP, Python",Microsoft DP-900,18,47,80,61,44,43,57.0
+111,Candidate_111,27,M.Tech,6,ML Engineer,"NLP, Python",Microsoft DP-900,18,68,41,28,43,69,48.0
+112,Candidate_112,29,M.Tech,4,ML Engineer,"Java, Git, SQL",None,3,94,48,98,31,68,68.0
+113,Candidate_113,35,Diploma,5,Data Scientist,"Python, SQL, ML",None,3,78,73,59,37,70,64.0
+114,Candidate_114,35,B.Sc,6,Data Analyst,"Python, SQL, ML",Microsoft DP-900,10,42,88,44,34,55,54.0
+115,Candidate_115,30,MBA,2,Software Engineer,"Excel, PowerBI, SQL",Microsoft DP-900,4,71,78,24,99,85,70.0
+116,Candidate_116,33,B.Tech,9,Software Engineer,"Java, Git, SQL",DeepLearning.AI,19,49,90,30,46,98,60.0
+117,Candidate_117,39,M.Sc,2,ML Engineer,"Excel, PowerBI, SQL",AWS ML,10,49,46,78,91,53,63.0
+118,Candidate_118,27,B.Tech,4,Data Analyst,"Excel, PowerBI, SQL",None,9,58,86,98,79,55,77.0
+119,Candidate_119,37,M.Sc,5,ML Engineer,"Excel, PowerBI, SQL",AWS ML,7,85,84,57,65,25,69.0
+120,Candidate_120,24,B.Tech,8,AI Intern,"Python, Deep Learning",AWS ML,5,73,76,91,36,58,68.0
+121,Candidate_121,25,Diploma,4,ML Engineer,"Python, Deep Learning",Microsoft DP-900,5,99,41,24,72,61,60.0
+122,Candidate_122,27,MBA,0,ML Engineer,"Excel, PowerBI, SQL",DeepLearning.AI,7,72,91,67,27,77,67.0
+123,Candidate_123,33,M.Sc,3,Software Engineer,"Java, Git, SQL",Google Data Analytics,14,62,37,37,98,31,55.0
+124,Candidate_124,35,B.Sc,4,Software Engineer,"Python, SQL, ML",DeepLearning.AI,13,94,50,89,46,22,65.0
+125,Candidate_125,31,B.Tech,9,Software Engineer,"Java, Git, SQL",DeepLearning.AI,10,67,99,56,65,37,69.0
+126,Candidate_126,24,B.Tech,9,AI Intern,"NLP, Python",AWS ML,11,71,54,79,69,59,67.0
+127,Candidate_127,33,M.Sc,4,Software Engineer,"Python, Deep Learning",DeepLearning.AI,12,89,41,67,90,40,68.0
+128,Candidate_128,27,B.Sc,6,Data Analyst,"Python, SQL, ML",None,7,46,44,96,22,34,50.0
+129,Candidate_129,39,B.Sc,3,Data Scientist,"Python, SQL, ML",AWS ML,17,68,88,47,83,45,70.0
+130,Candidate_130,22,Diploma,0,Data Analyst,"NLP, Python",None,0,47,55,88,63,27,58.0
+131,Candidate_131,30,Diploma,4,Data Analyst,"NLP, Python",Google Data Analytics,14,40,55,96,72,61,63.0
+132,Candidate_132,33,Diploma,6,Software Engineer,"Excel, PowerBI, SQL",AWS ML,7,96,76,59,43,63,70.0
+133,Candidate_133,26,Diploma,9,Data Scientist,"Python, Deep Learning",Google Data Analytics,10,94,61,64,79,33,71.0
+134,Candidate_134,32,Diploma,9,Data Scientist,"Python, Deep Learning",AWS ML,11,42,39,81,22,97,51.0
+135,Candidate_135,32,Diploma,5,Data Scientist,"Java, Git, SQL",Microsoft DP-900,11,63,45,77,39,21,52.0
+136,Candidate_136,31,MBA,4,AI Intern,"Excel, PowerBI, SQL",DeepLearning.AI,3,62,46,86,65,56,63.0
+137,Candidate_137,27,B.Sc,3,Software Engineer,"Excel, PowerBI, SQL",Microsoft DP-900,15,98,52,75,34,88,68.0
+138,Candidate_138,21,Diploma,1,Data Scientist,"Excel, PowerBI, SQL",Google Data Analytics,3,47,55,59,44,57,52.0
+139,Candidate_139,21,B.Sc,3,AI Intern,"Excel, PowerBI, SQL",DeepLearning.AI,4,93,36,59,97,60,69.0
+140,Candidate_140,33,B.Sc,9,ML Engineer,"Python, Deep Learning",AWS ML,4,96,43,96,90,81,80.0
+141,Candidate_141,29,M.Tech,9,ML Engineer,"Python, Deep Learning",DeepLearning.AI,7,86,36,52,36,79,56.0
+142,Candidate_142,23,MBA,2,AI Intern,"Excel, PowerBI, SQL",None,9,76,38,25,28,33,42.0
+143,Candidate_143,27,Diploma,9,AI Intern,"Java, Git, SQL",DeepLearning.AI,16,42,77,38,57,21,51.0
+144,Candidate_144,26,B.Tech,0,Software Engineer,"Python, SQL, ML",None,8,90,88,99,67,89,87.0
+145,Candidate_145,28,M.Sc,7,Software Engineer,"Python, SQL, ML",DeepLearning.AI,18,72,68,59,79,36,66.0
+146,Candidate_146,29,B.Tech,4,ML Engineer,"Java, Git, SQL",None,13,67,47,78,82,47,65.0
+147,Candidate_147,25,MBA,3,Data Scientist,"Excel, PowerBI, SQL",Google Data Analytics,7,86,88,78,21,85,72.0
+148,Candidate_148,21,M.Sc,7,ML Engineer,"Python, Deep Learning",Microsoft DP-900,8,47,46,67,91,54,60.0
+149,Candidate_149,39,MBA,6,Data Scientist,"Python, SQL, ML",AWS ML,10,73,43,60,30,24,49.0
+150,Candidate_150,30,B.Sc,1,Data Scientist,"NLP, Python",DeepLearning.AI,0,74,60,32,83,84,65.0
